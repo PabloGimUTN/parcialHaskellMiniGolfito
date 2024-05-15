@@ -96,7 +96,7 @@ superaTiro obstaculo tiro
   | obstaculo tiro == UnTiro 0 0 0 = False
   | otherwise = True
 
-
+--el 4 b y c no se pueden hacer sin recursividad la misma profesora que lo resolvio no lo pudo hacer sin recursividad
 
 --hago un lenh de los obstaculos que me filtre
 --tengo que hacer una funcion que me agarre todos los obstaculos
